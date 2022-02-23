@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Magna veritas, or, John Gadbury, student in physick and astrology, not a papist but a true Protestant of the Church of England published for the satisfaction of all such as know not the said John Gadbury and yet give credit to all kinds of scandals and falshoods that pass upon his much injured reputation since his late unfortunate confinement.</title>
+            <author>Gadbury, John, 1627-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42857</idno>
+            <idno type="STC">Wing G87</idno>
+            <idno type="STC">ESTC R11482</idno>
+            <idno type="EEBO-CITATION">13791700</idno>
+            <idno type="OCLC">ocm 13791700</idno>
+            <idno type="VID">101859</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42857)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101859)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 454:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Magna veritas, or, John Gadbury, student in physick and astrology, not a papist but a true Protestant of the Church of England published for the satisfaction of all such as know not the said John Gadbury and yet give credit to all kinds of scandals and falshoods that pass upon his much injured reputation since his late unfortunate confinement.</title>
+                  <author>Gadbury, John, 1627-1704.</author>
+               </titleStmt>
+               <extent>[2], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. and R.R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by John Gadbury.  Cf. Wing.</note>
+                  <note>Errata: p. 15.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gadbury, John, 1627-1704.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101859:1" rendition="simple:additions"/>
+            <p>
+               <hi>MAGNA VERITAS:</hi> OR, JOHN GADBURY, (Student in Phyſick and Aſtrology) NOT A PAPIST, But a True PROTESTANT OF THE Church of England.</p>
+            <p>Publiſhed for the ſatisfaction of all ſuch as know not the ſaid <hi>JOHN GADB<g ref="char:V">Ʋ</g>RY,</hi> and yet give Credit to all kinds of Scandals and Falſhoods that paſs upon his much injured Reputation ſince his late unfortunate Confinement.</p>
+            <q>
+               <p>For the mouth of the wicked, and the mouth of the deceitful are opened againſt me: they have ſpoken againſt me with a Lying Tongue,</p>
+               <bibl>
+                  <hi>Pſal. 109.11.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>A. M.</hi> and <hi>R. R.</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:101859:2"/>
+            <pb n="1" facs="tcp:101859:2"/>
+            <head>
+               <hi>JOHN GADBURY,</hi> Student in Aſtrology and Phyſick, Not a <hi>PAPIST,</hi> but a <hi>PRO<g ref="char:EOLhyphen"/>TESTANT</hi> of the Church of <hi>England,</hi> &amp;c.</head>
+            <p>§. 1. AS the <hi>Egyptians</hi> in their Hierogliphicks painted Death like a Goddeſs with a Sycle in her hand, bearing this Motto, <hi>Nemini parco, I ſpare no man:</hi> ſo we find it true of <hi>Afflictions,</hi> thoſe black Harbingers of the grim King of Terrors, <hi>They ſpare none neither;</hi> there being no man free from them at one time or other. Howbeit, it is not the man<g ref="char:EOLhyphen"/>ner, but cauſe of Afflictions, which imbitters them, and ren<g ref="char:EOLhyphen"/>ders them painful and uneaſie. If we ſuffer for righteouſ<g ref="char:EOLhyphen"/>neſs ſake <hi>(i. e.)</hi> innocently, and by the wickedneſs of falſe and malicious men, a bleſſing attends upon our ſor<g ref="char:EOLhyphen"/>rows, which will certainly change our Croſs into a Crown, and procure us an heavenly content, beyond the meaſure of our terrene troubles and adverſities.</p>
+            <p>§. 2. Afflictions are our School-maſters, and often bring us to God. <hi>It is good for me</hi> (ſaith holy <hi>David</hi>) <hi>that I was afflicted, for now I have known thy ſtatutes.</hi> And indeed, it is my ſufferings, principally, that have made me to caſt mine eyes inward, and ſeriouſly to examine mine heart, how or wherein I have offended againſt the Majeſty of the King of Heaven, that this ſad Judgment under which I now la<g ref="char:EOLhyphen"/>bour, is come upon me.</p>
+            <p>§. 3. I never was in love with a Phariſaical humour or temper (for indeed, what hath a poor mortal to boaſt, or to be proud of?) but yet, as the caſe now ſtands, I may, I hope, in the ſtrength of Truth and Modeſty affirm (with<g ref="char:EOLhyphen"/>out being ſubject to any ſevere Cenſure), That as for my actions between man and man, I bleſs God, they are as little to be taxed as any man's of my degree or quality. I have lived now fifty and two Solar Revolutions in this trouble<g ref="char:EOLhyphen"/>ſome
+<pb n="2" facs="tcp:101859:3"/>World, and (which I eſteem almoſt miraculous) have been ſo happy therein, as never to have had any Law-ſuit with any man excepting one, and that was in behalf of two Orphans committed to my charge; and had I not then contended for them, they, poor wretches! (altogether un<g ref="char:EOLhyphen"/>able to help themſelves) had been exceedingly injured of their Right.</p>
+            <p>§. 4. As to any Spirit of Contention or Contradiction, <hi>&amp;c.</hi> whereby the world is commonly governed and guided, I appeal to the Neighbourhood among whom I have lived, whether I have ever been guilty of yeilding to any ſuch? and whether my demeanour hath not been rather peacea<g ref="char:EOLhyphen"/>ble and preſerving, than any way diſſurbant or trouble<g ref="char:EOLhyphen"/>ſome to any of them? [It is true, ſome ſcribling differ<g ref="char:EOLhyphen"/>ences I have had, but I never began a quarrel with any man; and men that are aſſaulted, muſt forfeit their reaſon if they do not defend themſelves.] Nay, I bleſs and magnifie the God of Heaven (who by his good Angels hath ſo happily conducted me in all my actions of this life) that I can juſtly interrogate with good old <hi>Samuel,</hi> —<hi>Whoſe oxe have I taken? or, whoſe aſs have I driven aſide? or whom have I wronged of a ſhoo-latchet, or a thred?</hi> Let thoſe that know me ſpeak, whether I have not been rather helpful than hurtful to the people among whom I have at any time li<g ref="char:EOLhyphen"/>ved or reſided?</p>
+            <p>§. 5. If this truth be diſtruſted, I am ſure the Keepers of the Priſon where I am confined, will be ſo juſt as to wit<g ref="char:EOLhyphen"/>neſs the ſame for me, from the many ſad complaints they (almoſt) dayly hear from ſeveral poor people of my Neigh<g ref="char:EOLhyphen"/>bourhood, by reaſon of my unfortunate reſtraint, whereby I am incapacitated and debarred from doing the common good I was conſtantly accuſtomed to do, though, I confeſs, it was no more than my duty as a man, but much more as a Chriſtian: for, <hi>non nobis nati ſumus;</hi> and even the brute beaſts that periſh, would be as valuable as mankind, were it not for theſe diſtinguiſhing acts of our Charity and Rea<g ref="char:EOLhyphen"/>ſon towards people in diſtreſs.</p>
+            <p>§. 6. Albeit, I muſt and do acknowledg, that God's <hi>chaſtiſing hand</hi> is never either upon a Perſon, Family, or Nation, for nought. <hi>He is a Juſt Judg,</hi> and the puniſh<g ref="char:EOLhyphen"/>ments
+<pb n="3" facs="tcp:101859:3"/>he permits to befall poor mortals, do naturally im<g ref="char:EOLhyphen"/>ply a guilt in the perſon afflicted. <hi>Sin</hi> is the common cauſe of ſuffering; and the Juſt man falls ſeven times a day, though he (by God's Mercy and Providence) do riſe again, and meet a reſtoration of his former ſtate. Yet, I ſay, Sin is cauſe of all puniſhment; and certainly ſome great and ſecret ſin I muſt have committed againſt the God of Heaven, that he hath thus permitted, nay, perhaps, commiſſioned his <hi>afflicting Angel</hi> thus ſorely and ſeverely to buffet me.</p>
+            <p>§. 7. But for any known or open ſin committed either <hi>againſt my dread Soveraign, his Perſon, Crown, or Dignity, or againſt the Church of God as eſtabliſhed in</hi> England <hi>under Him; I openly profeſs and declare, That I am not either wil<g ref="char:EOLhyphen"/>fully or knowingly</hi> (whatever I may be ignorantly, <hi>viz.</hi> by an unfortunate concealment of what I thought others ought to have revealed) <hi>guilty of any in the leaſt; and yet I have ſearched the very ſecreteſt corners of my ſoul as nar<g ref="char:EOLhyphen"/>rowly as it is poſſible for humanity to do, for a diſcovery of any ſuch latent unloyal, or irreligious gueſts.</hi> And if in my ſcrutiny I have paſſed over any dangerous <hi>angle</hi> or <hi>lurking<g ref="char:EOLhyphen"/>hole,</hi> without a thorow diſquiſition, I humbly beſeech God of his great mercy and goodneſs, to illuminate my troubled ſoul, and lead me to a perfect and exact diſcove<g ref="char:EOLhyphen"/>ry thereof, and help me to find the black inhabitants therein reſiding (if at leaſt there be really any) to the end I might firſt <hi>eject</hi> them their poſſeſſion, and afterwards repent me throughly that ever I gave either being or harbour to ſuch <hi>deſtructive Inmates.</hi>
+            </p>
+            <p>§. 8. That I have not knowingly committed any <hi>Crime</hi> againſt His moſt <hi>Sacred Majeſty,</hi> or the <hi>Government</hi> (although I know it is very hard and difficult for any man to prove a <hi>Negative:</hi>) I have, firſt, <hi>God,</hi> and his <hi>holy Angels,</hi> and a <hi>clear Conſcience,</hi> to evidence for me. Nay, I can moſt truly ſay, <hi>I have not erred againſt His Majeſty, ſo much as in a thought.</hi> Secondly, All my Actions and Expreſſions among my Neighbours and Acquaintance, are moſt remarkable ar<g ref="char:EOLhyphen"/>guments on my behalf in this matter, and which I am ſure will be juſtified to my advantage, if occaſion require it. For, were I really guilty of any thing of that kind, living
+<pb n="4" facs="tcp:101859:4"/>ſo near a loyal <hi>Cathedral,</hi> and among <hi>loyal-hearted perſons,</hi> I muſt have been taken notice of for ſuch; and my <hi>diſcour<g ref="char:EOLhyphen"/>ſes</hi> muſt, at one time or other, have betrayed a <hi>ſoul</hi> or <hi>ſpi<g ref="char:EOLhyphen"/>rit</hi> within me, fit and adapted for ſo wicked a purpoſe. But yet the contrary is ſufficiently known of me. —Nay, had I been an <hi>Enemy</hi> to His <hi>Majeſty,</hi> my converſation would have been among perſons Anti-Monarchical, and of diſloyal and treacherous Principles and Opinions. Where<g ref="char:EOLhyphen"/>as I have no near converſe or concern with any man of ei<g ref="char:EOLhyphen"/>ther a <hi>Fanatick</hi> or <hi>Papiſtical</hi> perſuaſion at all; but do chiefly <hi>correſpond</hi> and <hi>accompany with ſuch loyal and religi<g ref="char:EOLhyphen"/>ous perſons, who are not afraid or aſhamed to own the Inte<g ref="char:EOLhyphen"/>reſt of His Royal Majeſty, and that of the Church of</hi> Eng<g ref="char:EOLhyphen"/>land. And, we know, it is an allowed Proverb, —<hi>Homo cognoſcitur ex ſociis.</hi> Thirdly, If what I have ſaid be not yet enough to acquit me from the guilt of all knowable Crimes againſt my Liege Lord and Soveraign, then let all <hi>my Writings</hi> ſince His Majeſties moſt happy Reſtauration (and before alſo) be <hi>examined</hi> by any <hi>impartial</hi> and <hi>un<g ref="char:EOLhyphen"/>biaſſed Judg,</hi> and I dare affirm that they will all be found to ſtand up, and fully to juſtifie for me. I ſpare to menti<g ref="char:EOLhyphen"/>on any thing of my having been always on His Majeſties and His moſt Glorious Father's ſide in the late unhappy Wars. For, could I have done more (in ſo good and ſo juſt a Cauſe) than I did, or was able to do at that time, it had been but my dury, and ſuch as my Birth and Allegiance bound me to, as indeed they do every ſubject of what de<g ref="char:EOLhyphen"/>gree ſoever.</p>
+            <p>§. 9. And here I would have tranſcribed ſundry pages of my own Loyalty, out of my ſeveral Annual Labours, for the better corroborating of the preſent Argument, and the compurgating of my innocency as to the matter in que<g ref="char:EOLhyphen"/>ſtion; but that I conceive the ſame is ſo well known to all perſons generally, and believed too, by every body but thoſe that are envious and malicious (whoſe eyes I pray God to open) that there is ſcarce any need thereof. Be<g ref="char:EOLhyphen"/>ſides, I am in a great meaſure herein prevented by the kind pains of a <hi>worthy, cordial</hi> (though as yet to me an unknown) <hi>Friend,</hi> in his publiſhing an ingenious, acute, but moſt juſt and true Anſwer to a wicked, nay a murther<g ref="char:EOLhyphen"/>ouſly
+<pb n="5" facs="tcp:101859:4"/>deſign'd Libellous ſheet of Paper [wrote lately a<g ref="char:EOLhyphen"/>gainſt me (and this <hi>contrary to His Majeſties late Royal Pro<g ref="char:EOLhyphen"/>clamation, which forbids all libelling againſt any kind of perſons,</hi> &amp;c.) and called, <hi>Obſervations upon the ſtrange and wonderful Prophecies of Mr.</hi> John Gadbury, <hi>&amp;c.</hi>] under the title of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, who hath therein moſt humanely and obligingly <hi>vindicated</hi> my much <hi>wounded Reputation;</hi> for which ſo courteous, and by me unexpected a kindneſs, I hereby return him <hi>my very hearty thanks;</hi> and wiſh I knew <hi>him,</hi> as to this particular friendſhip, that I might more ful<g ref="char:EOLhyphen"/>ly acknowledg his generous and endearing Civilities.</p>
+            <p>§. 10. But then, ſecondly, as I have <hi>committed</hi> nothing knowingly againſt the <hi>King</hi> or the <hi>Government</hi>—ſo neither have I ever <hi>done any thing againſt the Church of God,</hi> as it is eſtabliſhed in <hi>England;</hi> of which Church I do, and ever did, and always ſhall acknowledg my Sovereign Lord <hi>King Charles the Second,</hi> to be the <hi>Supreme,</hi> and none elſe upon earth beſides. Away with ſuch <hi>Anarchical Creatures</hi> who (longing to be undone) would fain introduce (even againſt common ſenſe) a <hi>Foreign Head</hi> over a <hi>Domeſtick Body!</hi>
+            </p>
+            <p>§. 11. I have taken the <hi>Oaths of Allegiance and Supre<g ref="char:EOLhyphen"/>macy,</hi> and am ready ſo to do again if Authority think fit to require it. And it is my plain and <hi>poſitive opinion,</hi> That thoſe men which ſhall refuſe the taking of ſuch oaths as are enjoined by the <hi>Law,</hi> do not deſerve to receive any <hi>protection</hi> either from the <hi>King</hi> or the <hi>Law.</hi> For it would be ſtrange, and little leſs than monſtrous, in true Policy, that a <hi>Soveraign Prince</hi> ſhall generouſly oblige himſelf by an <hi>Oath</hi> (as at the Coronation is cuſtomary) to protect and preſerve his people in their juſt Rights, Priviledges, and Properties; and that the ſubjects ſhould (upon any pretence) <hi>ſcruple</hi> to take <hi>ſuch Oaths</hi> of <hi>Fealty</hi> and <hi>Allegi<g ref="char:EOLhyphen"/>ance</hi> as by the <hi>Law</hi> is provided, for the declaring their <hi>duty</hi> and <hi>obedience</hi> to him again. Such <hi>Obligations</hi> are purely <hi>reciprocal,</hi> and may be termed <hi>Oaths of <g ref="char:V">Ʋ</g>nity,</hi> as well as of <hi>Fidelity,</hi> whereby both <hi>Prince and people are married together,</hi> and <hi>[Quos Deus conjunxit, nemo ſeparet] accurſed</hi> be thoſe that ſhall endeavour to <hi>diſſolve the bond.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:101859:5"/>
+§. 12. I do, and ever did honour the <hi>Reverend Clergy</hi> of the Church of <hi>England,</hi> and eſteem it my duty ſo to do. And I bleſs God I have moſt commonly frequented the <hi>Service</hi> of the <hi>Church;</hi> and am ſorry from my ſoul if at any time I have omitted any <hi>duty</hi> thereunto belonging. I always reverenc'd my Spiritual Guide, and with all wil<g ref="char:EOLhyphen"/>lingneſs paid him his Dues, as knowing it to be a per<g ref="char:EOLhyphen"/>forming of the Law of God and Man, and juſtly enjoin'd to all mankind, as well under the <hi>Goſpel,</hi> as under the <hi>Law.</hi> I was <hi>born, baptized,</hi> and <hi>bred</hi> a <hi>Proteſtant of the Church of England,</hi> (and by <hi>Gods Grace</hi> afforded to me, I <hi>intend ſo to dye</hi>) and although I have been falſely reputed a <hi>Papiſt,</hi> (by many malicious Enemies, who being as much void of Conſcience as Kindneſs, care not how untruly they ſcan<g ref="char:EOLhyphen"/>dal me) I do <hi>moſt ſolemnly profeſs the contrary,</hi> having ne<g ref="char:EOLhyphen"/>ver in my whole life been a member of any other Church than that of the Proteſtant Church of <hi>England,</hi> as it is eſta<g ref="char:EOLhyphen"/>bliſhed (now) by Law.</p>
+            <p>§. 13. I never yet had any acquaintance with any <hi>Popiſh Prieſts,</hi> as ſuch, in all my days; and if any ſuch have at any time happen'd to be in my company, it hath been beyond my knowledg. I never was at <hi>Maſs</hi> in my life; nor did I ever <hi>incline</hi> to any <hi>Popiſh Tenets or Prin<g ref="char:EOLhyphen"/>ciples, as they ſtand in oppoſition to the Principles of my Mo<g ref="char:EOLhyphen"/>ther the Church of</hi> England. I have read that moſt Reve<g ref="char:EOLhyphen"/>rend Prelate Archbiſhop <hi>Laud's</hi> Book againſt <hi>Fiſher,</hi> as animated thereunto by the <hi>Divine Writings</hi> of our late <hi>Pious Soveraign, King</hi> Charles <hi>the Firſt</hi> of ever bleſſed memory. As alſo, the Works of the Pious and Judicious Biſhop <hi>Saunderſon;</hi> and Biſhop <hi>Williams</hi>'s <hi>Beſt Religion.</hi> I have likewiſe very carefully conſulted Dr. <hi>Jeremy Tay<g ref="char:EOLhyphen"/>lor</hi>'s <hi>Diſſuaſive from Popery,</hi> both Parts. As alſo the thrice learned Dr. <hi>Pieree</hi> his moſt excellent Sermon before the King, entituled, <hi>The primitive Rule of Reformation.</hi> Neither have I forborn to peruſe the Learned Labours of Dr. <hi>Stillingfleet,</hi> Dr. <hi>Tillotſon,</hi> Dr. <hi>Henry More,</hi> Dr. <hi>Butler,</hi> Mr. <hi>Pelling, cum multis aliis,</hi> &amp;c. <hi>of the Church of</hi> England <hi>againſt Popery;</hi> and do profeſs my ſelf to be ſo fully ſatiſ<g ref="char:EOLhyphen"/>fied with them, as to keep me cloſe to the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> under which I have been educated in every thing re<g ref="char:EOLhyphen"/>lating
+<pb n="7" facs="tcp:101859:5"/>to <hi>Faith, Doctrine,</hi> or <hi>Diſcipline;</hi> as alſo to a <hi>full</hi> and <hi>abſolute renunciation</hi> of all <hi>Popiſh Errors, Idolatries,</hi> and <hi>Superſtitions,</hi> whatſoever. More eſpecially, of that <hi>damnable and moſt horrid Error and Opinion of Murthering Kings</hi> (God's Vice-Roys on earth, whether theirs, or any other pretended Chriſtians, who in this come not ſhort of them) the very <hi>thoughts</hi> whereof, I <hi>deteſt, abhor,</hi> and <hi>execrate,</hi> as being not only againſt the very <hi>eſſence</hi> of all <hi>humane and divine Laws,</hi> but is even the very <hi>doctrine of Devils,</hi> and can have no other <hi>original</hi> or <hi>ſource</hi> but <hi>Hell it ſelf.</hi>
+            </p>
+            <p>§. 14. I had well hoped that my having had a <hi>Relation</hi> to a moſt Reverend Prelate of the Church of <hi>England, viz.</hi> the late moſt pious and learned, Dr. <hi>Joſeph Henſhaw,</hi> Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Peterborough,</hi> deceaſed, about twelve years (or up<g ref="char:EOLhyphen"/>ward) together, would have acquitted me from the falſe imputation of being a <hi>Roman Catholick;</hi> in which time I had the honour of carrying his Lordſhips <hi>duty</hi> and <hi>ſervice</hi> to the <hi>Kings moſt Excellent Majeſty,</hi> every <hi>New-years day,</hi> and received His <hi>Majeſties most gracious New-years gift</hi> to the good <hi>Lord Biſhop</hi> again. The truth of which His Ma<g ref="char:EOLhyphen"/>jeſties <hi>Jewel-Office</hi> and <hi>Pay-Office</hi> will fully evidence for me, as having <hi>my name</hi> there, to that very purpoſe; from the <hi>later</hi> of which <hi>Offices</hi> I alſo annually received His <hi>Ma<g ref="char:EOLhyphen"/>jeſties moſt bountiful Reward,</hi> as a Meſſenger; for which I never forgot to leave my <hi>humble thanks</hi> to, and a <hi>prayer</hi> for His <hi>Majeſties long Life and happy Reign;</hi> and for the ſame do ſtill, and ever while I have breath ſhall pray. And ſurely, had I been a <hi>Papiſt,</hi> or any way inclined thereunto, I could not have had ſo great and ſo long an Honour from ſo Reverend a Prelate of the Church of <hi>England,</hi> as was this my good Lord and Patron. And had not my moſt unfortunate confinement hindred, I ſhould have prayed a continuance of the ſame <hi>Honourable</hi> (and to me moſt grateful and delightful) <hi>Employment</hi> from the <hi>preſent Right Reverend Lord Biſhop of</hi> Peterborough, though as yet I have not the happineſs of being known to him.</p>
+            <p>§. 15. I muſt indeed acknowledg, that I have ſome acquaintance with perſons of the Romiſh Religion, and
+<pb n="8" facs="tcp:101859:6"/>ſo I have among all kind of Opinions, as any man of a popular practice cannot avoid. But it would be very hard, nay exceedingly unjuſt, if I ſhould therefore be reputed as a man guilty of all Opinions. I have laboured ſomewhat in matters of Controverſie, for my own ſatisfaction, and have oftentimes read much more than perhaps I have un<g ref="char:EOLhyphen"/>derſtood. I have endeavoured to follow St. <hi>Paul</hi>'s Rule cloſely, viz. <hi>Omnia probate, quod bonum eſt tenete, Prove all things, but hold faſt that which is good;</hi> and therefore have not refuſed to read Books of all Opinions, under the <hi>bur<g ref="char:EOLhyphen"/>den</hi> of which our <hi>Engliſh World</hi> is too <hi>uneaſie;</hi> and of which <hi>unneceſſary Ware</hi> the <hi>Shops, Markets,</hi> and <hi>Fairs</hi> a<g ref="char:EOLhyphen"/>mong us are too full fraught in theſe our unhappy days. <hi>God in his good time heal our Diviſions, and once more reſtore us to unity and good order.</hi>
+            </p>
+            <p>§. 16. Again, had I been a <hi>Papiſt,</hi> or <hi>Popiſhly affected,</hi> why ſhould I not have ſhewn it upon ſo remarkable an oc<g ref="char:EOLhyphen"/>caſion as in the (to me) <hi>moſt unfortunate ſickneſs and burial of my dear Wife,</hi> but lately deceaſed (<hi>viz.</hi> ſcarce four Months before my ſad Confinement) why ſhould I not rather have had <hi>Popiſh prieſts,</hi> than <hi>thoſe of the Church of England,</hi> to have performed all <hi>Chriſtian Offices</hi> proper to her at ſuch a time, as <hi>to pray by,</hi> and <hi>for her,</hi> and to give her the <hi>holy Sacrament?</hi> This had been a time in earneſt to have proved my inclinations and good will to Popery, in caſe I had any at all for it; but that I had none, will moſt fully appear, I hope, to all reaſonable men, from the <hi>Certificate</hi> following, under the hand of a <hi>Miniſter of the Church of England,</hi> and <hi>Curate</hi> of the Pariſh of St. <hi>Margarets Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> the Pariſh of my habitation and abode: A Copy whereof I did likewiſe annex to a Petition which I preſent<g ref="char:EOLhyphen"/>ed to His <hi>Majeſty</hi> and <hi>Privy-Council</hi> (for their ſatisfaction) ſince my unfortunate impriſonment.</p>
+            <q>
+               <pb n="9" facs="tcp:101859:6"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <head>Mr. <hi>Barthol. Wormell</hi>'s Certificate.</head>
+                        <p>THeſe are humbly to certifie, That <hi>John Gadbu<g ref="char:EOLhyphen"/>ry,</hi> of the pariſh of St. <hi>Margarets Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> in the County of <hi>Middleſex,</hi> Gent. did about the beginning of <hi>July</hi> laſt paſt, take the Holy Sacrament of the Lords Supper at his own Houſe in <hi>Brick-Court Weſtminſter,</hi> with his dying Wife Mrs. <hi>Elizabeth Gadbury,</hi> from my hands. In witneſs whereof I have hereunto ſubſcribed my hand, this tenth day of <hi>Novem<g ref="char:EOLhyphen"/>ber, 1679.</hi>
+                        </p>
+                        <closer>
+                           <signed>
+                              <hi>Barthol. Wormell,</hi> Curate. Vera Copia.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Nay, further, I cannot but acquaint the world, that my good Father, Mr. <hi>Oliver Gadbury,</hi> was always a <hi>real Prote<g ref="char:EOLhyphen"/>ſtant,</hi> and true <hi>ſubject</hi> of his <hi>Majeſty,</hi> and <hi>ſon of the Church of</hi> England, and but few years ſince <hi>dyed ſuch,</hi> at <hi>Wornal</hi> in the County of <hi>Oxford,</hi> where his <hi>Body</hi> now lyes interred, his <hi>Soul</hi> being at reſt with <hi>God.</hi>
+            </p>
+            <p>§. 17. And for a greater ſtrengthning of this my pre<g ref="char:EOLhyphen"/>ſent Argument or Aſſertion, viz. <hi>That I am no Papist, but a Protestant,</hi> &amp;c. I aver, that the very <hi>nearest</hi> of <hi>my most Honour'd Relations</hi> are very <hi>real</hi> and <hi>ſtrict Protestants,</hi> as Sir <hi>Thomas Curſon,</hi> and <hi>his Honourable Lady,</hi> of <hi>Waterperry</hi> in the County of <hi>Oxford;</hi> which ſaid Sir <hi>Thomas</hi> is my <hi>Ho<g ref="char:EOLhyphen"/>nour'd <g ref="char:V">Ʋ</g>ncle</hi> by my <hi>Mothers ſide,</hi> and a <hi>perſon</hi> that I have very great reaſon to be careful how <hi>I offend</hi> either in my <hi>Religion</hi> or <hi>otherways;</hi> he being not only <hi>my <g ref="char:V">Ʋ</g>ncle,</hi> but very <hi>great Friend,</hi> and ſo alſo is his <hi>vertuous Lady.</hi> And I think, nay am ſure, that both <hi>he</hi> and his <hi>Honoured Lady</hi> will moſt readily <hi>aver me to be a Protestant,</hi> as knowing <hi>me</hi> to be <hi>ſuch,</hi> and to have gone <hi>to Church with them,</hi> when at any time I have viſited them in the Countrey, and <hi>to have join<g ref="char:EOLhyphen"/>ed in prayers with them morning and evening,</hi> as they moſt
+<pb n="10" facs="tcp:101859:7"/>religiouſly and commendably uſe in their <hi>Families</hi> al<g ref="char:EOLhyphen"/>ways.</p>
+            <p>§. 18. But one thing more is urged, and maketh a great noiſe againſt me, which I may not forget to give the World ſome ſatisfaction in, and that is an unhappy omiſſion of the <hi>Feaſt for deliverance from the Gunpowder-Treaſon, on</hi> No<g ref="char:EOLhyphen"/>vember <hi>the Fifth day, in my Almanack.</hi> Unto which I can juſtly ſay, <hi>Truth be my witneſs,</hi> that I know not by what unfortunate accident it came to be left out; but this I am ſure of, that <hi>it was not omitted wilfully,</hi> or in deſign; for I do, and ever did own the <hi>Powder-Treaſon for a damnable and horrid Popiſh Plot</hi> (as I alſo do <hi>the preſent wicked one, under the black effects whereof poor</hi> England <hi>ſo ſadly groans.</hi>) Neither can it be thought upon a juſt and reaſonable con<g ref="char:EOLhyphen"/>ſideration, that I ſhould leave it out of my <hi>Almanack pur<g ref="char:EOLhyphen"/>poſely,</hi> ſince what I wrote annually, is ever ſubjeſt to the <hi>inſpection</hi> and <hi>correction</hi> alſo of a <hi>Licenſer,</hi> who hath power to defeat my deſign of that purpoſe. Nor can an <hi>Almanack<g ref="char:EOLhyphen"/>maker</hi> print what he pleaſe. And if it be poſſible for a <hi>Licenſer</hi> to paſs by a thing ſo <hi>material</hi> without <hi>correction,</hi> may not an <hi>Author</hi> be ſuppoſed to be beſieged with the ſame <hi>Imperfections</hi> or humane frailties?</p>
+            <p>§. 19. And here I cannot but with all <hi>duty</hi> and <hi>humility</hi> acknowledg the <hi>Juſtice</hi> of that ſevere <hi>reprehenſion</hi> of my good <hi>Lord Biſhop</hi> of <hi>London,</hi> to <hi>me</hi> about it, at the <hi>Council-Table;</hi> ſince his <hi>Lordſhip</hi> did not know but that I might have purpoſely omitted it. And I do hereby give his <hi>Lord<g ref="char:EOLhyphen"/>ſhip</hi> my moſt <hi>humble</hi> and <hi>cordial thanks,</hi> for that he was plea<g ref="char:EOLhyphen"/>ſed afterwards to accept of my humble <hi>Apology</hi> for the un<g ref="char:EOLhyphen"/>fortunate eſcape, and hold me in ſome meaſure excu<g ref="char:EOLhyphen"/>ſable.</p>
+            <p>§. 20. <hi>Almanacks</hi> are not ſuch contemptible and deſpi<g ref="char:EOLhyphen"/>cable things as the Vulgar commonly imagine them. The <hi>Law</hi> eſteems them as <hi>Books of Sanction,</hi> and therefore they cannot be <hi>printed</hi> but by the <hi>peculiar Authority of the Kings moſt Excellent Majeſty;</hi> and it is therefore, alſo, that <hi>they</hi> are found commonly annexed to the <hi>Holy Bible</hi> and <hi>Common<g ref="char:EOLhyphen"/>prayer-book.</hi> And if <hi>any man</hi> offer to write an <hi>Almanack</hi> out of any other deſign, than for the <hi>ſerious ſervice of the Church and Nation,</hi> he is moſt <hi>juſtly puniſhable</hi> for the ſame.
+<pb n="11" facs="tcp:101859:7"/>And let me be believed (I beſeech you) when I ſo ſo<g ref="char:EOLhyphen"/>lemnly proteſt it, Rather than I would willingly <hi>offend</hi> either His <hi>Sacred Majeſty,</hi> the <hi>Holy Church of England,</hi> or the <hi>Nation,</hi> in writing a <hi>line</hi> of <hi>one,</hi> I would <hi>loſe the hand</hi> that ſhould guide my <hi>Pen</hi> to ſo <hi>wicked</hi> and ſo <hi>malicious</hi> a Performance. So that I hope, this my <hi>publickly renouncing</hi> of any kind of deſign or wilfulneſs in this moſt <hi>unhappy Omiſſion,</hi> will not only ſet met me <hi>right</hi> in the <hi>opinion of</hi> the <hi>Reverend Clergy</hi> (whom I ever honoured and revered with my heart, as I hope all my Writings and Actions will teſtifie for me) but alſo with His <hi>moſt Sacred Majeſty</hi> and His <hi>Nobility,</hi> and with the <hi>Nation</hi> in general, likewiſe.</p>
+            <p>§. 21. If what I have written be impartially and duly conſidered, I hope I have fully ſatisfied all ſuch as were any way unſatisfied <hi>concerning my Religion towards God,</hi> and <hi>my duty, loyalty, and fidelity towards my Dread and Graci<g ref="char:EOLhyphen"/>us Soveraign.</hi> And what I have here done, is <hi>ex intimus Medullis,</hi> and the very <hi>Truth</hi> of my <hi>Soul,</hi> as <hi>I hope to ſee the face of God in glory;</hi> and no way expecting that it ſhould make the <hi>better</hi> for me in this my preſent Conditi<g ref="char:EOLhyphen"/>on; but only to take off that moſt <hi>uncharitable</hi> as well as moſt <hi>falſe imputation of my being a Roman Catholick.</hi>
+            </p>
+            <p>§. 22. As for my preſent <hi>misfortunes,</hi> and unhappy confinement that I, to my great loſs and ſorrow labour un<g ref="char:EOLhyphen"/>der, I wholly refer <hi>them,</hi> and <hi>my ſelf</hi> under them, to <hi>God Almighty</hi> (who is the only <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>heart-ſearcher,</hi> and will, no doubt, in his own good time, bring every <hi>ſecret Truth to light,</hi> and <hi>vindicate</hi> my much injured <hi>Innocency,</hi> &amp;c.) as alſo to the <hi>Mercy</hi> and <hi>Clemency</hi> of my moſt <hi>Gra<g ref="char:EOLhyphen"/>cious Soveraign,</hi> beſeeching him to believe me (as in fact I am) <hi>wholly innocent,</hi> as to the <hi>popular Calumny</hi> which paſ<g ref="char:EOLhyphen"/>ſeth upon me as liberally as untruly, viz. <hi>That I am a Ro<g ref="char:EOLhyphen"/>man Catholick or Papiſt.</hi>
+            </p>
+            <p>§. 23. To conclude, I ſhall and will ever <hi>pray</hi> for his <hi>Majesties long life, and happy and peaceable reign,</hi> as indeed I ever have done, and do really <hi>wiſh</hi> both His <hi>Majesty</hi> and the <hi>Church of England</hi> as <hi>many better ſubjects and ſons</hi> than my <hi>ſelf,</hi> as may be; but do moſt <hi>heartily pray,</hi> that <hi>neither</hi> of <hi>them</hi> ever meet with <hi>worſe.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:101859:8"/>
+And as the <hi>whole,</hi> and <hi>every part</hi> of what is here <hi>writ<g ref="char:EOLhyphen"/>ten,</hi> is <hi>true;</hi> ſo I moſt humbly <hi>beg the great God of Hea<g ref="char:EOLhyphen"/>ven to help me,</hi> and clear mine <hi>Innocence,</hi> and <hi>not other<g ref="char:EOLhyphen"/>wiſe.</hi>
+            </p>
+            <closer>
+               <signed>Deus non Irridetur. <hi>JOHN GADB<g ref="char:V">Ʋ</g>RY.</hi>
+               </signed> 
+               <dateline>Gatehouſe, <date>Weſt. Dec. 29. 1679.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="13" facs="tcp:101859:8"/>
+            <head>Poſtſcript.</head>
+            <p>THE foregoing diſcourſe being written in a Priſon, where I had neither the uſe of Books, nor yet the free Converſe of any Friend to adviſe with, will, I hope, incline all Juſt and Loyal Readers to the exerciſe of ſo much Candor and Charity, as to paſs by any Imperfections that they ſhall meet with therein. It is only the Copy of my troubled mind, labouring to be deliver'd from the popular ſcandal which ſo liberally paſſeth on me concerning my Religion; under pretence whereof my Loyalty hath been wounded, and things laid to my charge, that I not only execrate and abominate, but even trem<g ref="char:EOLhyphen"/>ble to name. And certainly, if there be a time at all for a man to write an Apology, or to appear publickly in his own juſt defence, it is when his Reputation is thus prodi<g ref="char:EOLhyphen"/>giouſly aſſaulted.</p>
+            <p>Albeit, I do not go about wholly to excuſe my ſelf; for, I do (with great ſorrow) acknowledg, that I have been <hi>(neſcio quo fato)</hi> guilty of concealing ſome Crimes, which too nearly endanger'd my Life: But this I did, not thorow any malice, or prejudice, or diſaffection to his Sacred Ma<g ref="char:EOLhyphen"/>jeſty or the Government, (both which I ever did, and al<g ref="char:EOLhyphen"/>ways ſhall Honour, as it is my Duty) but truly and really in <hi>ſimplicity,</hi> like <hi>Abſaloms</hi> Two hundred followers; or rather, through <hi>Ignorance</hi> of His Majeſties Laws, <hi>Inad<g ref="char:EOLhyphen"/>vertency,</hi> and a paſſionate <hi>zeal to Friendſhip,</hi> &amp;c. All which Imperfections, Offences, Errors and Frailties, his moſt Excellent Majeſty of his Princely Clemency (upon my humble acknowledgment of my Errors, <hi>&amp;c.</hi> and Pe<g ref="char:EOLhyphen"/>nitence for them) hath been moſt graciouſly pleaſed to paſs by, and pardon: which ſaid Royal Mercy, I ſhall al<g ref="char:EOLhyphen"/>ways moſt dutifully remember. And it ſhall be a juſt warn<g ref="char:EOLhyphen"/>ing to me for ever, how I make my Breaſt a Cabinet of
+<pb n="14" facs="tcp:101859:9"/>dangerous Secrecy for any one; or yet to concern my ſelf with things above my Capacity, Condition, or Station.</p>
+            <p>
+               <hi>Obedience is better than Sacrifice.</hi>
+            </p>
+            <p>But, of theſe matters, I may (perhaps) more amply treat in a fitter place hereafter, if God ſhall give me life, and his moſt Gracious Majeſty permit me leave.</p>
+            <p>In the Interim, I ſhall pray leave moſt humbly and truly to affirm.—</p>
+            <p>That I have no acquaintance <hi>with any one</hi> of the <hi>Lords</hi> in the <hi>Tower,</hi> nor yet with the Right Honourable the Coun<g ref="char:EOLhyphen"/>teſs of <hi>Powis.</hi> Nor did I ever ſee the Face of any <hi>One</hi> of them (to my knowledg) in my whole life-time. God for<g ref="char:EOLhyphen"/>give them that have affirm'd againſt me the contrary; and thoſe too, that animated or encouraged them ſo to do.</p>
+            <p>Thoſe perſons do run a monſtrous and diſproportionate adventure, who, endeavouring, by unjuſt means and ways to ſend me to my Grave (which a ſmall portion of time would ſave them the trouble of deſigning) do, at the ſame Inſtant, ſend their own Souls to a worſer place, ex<g ref="char:EOLhyphen"/>cept God in his great Mercy prevent; which from ſuch deſperate and illicite Actions and Courſes, they can ne<g ref="char:EOLhyphen"/>ver have any real aſſurance of.</p>
+            <p>Neither do I only diſown all kind of knowledg of any of thoſe Honourable Perſonages, but alſo deny that I have ever had any thing to do for them, or either, or any of them, either directly or indirectly: Being (as I ſaid) an abſolute ſtranger both unto their perſons and affairs, otherwiſe than by the Information I may have received from the publick Prints, or popular report; of which the whole world are partakers equally with me. Were it other<g ref="char:EOLhyphen"/>wiſe, I would never diſſemble the matter: No! although it related to the neareſt and deareſt Friend and Kindred I had. I aim at Truth in all my Actions, not Intereſt; and ſhall always, to my power, do ſo in all things, eſpecially where the Honour of my Soveraign Lord the King, and Peace of the Kingdom is concerned.</p>
+            <p>Howbeit, I have been moſt groſly abuſed in Print as to this very matter, as well as to many others (and the Truth hath been injured alſo), and my name made a property for the Avarice and Malice of <hi>Mercenary Scriblers,</hi> and <hi>Ven<g ref="char:EOLhyphen"/>ders
+<pb n="15" facs="tcp:101859:9"/>of their filthy ware,</hi> who, in this Age of Scandals, are ſo bold and daring, that the very beſt of men, nay, even <hi>Magiſtracy</hi> it ſelf cannot eſcape their envenom'd Pens Such Calumniators never conſidering, <hi>That a good name is better than precious Oyntment, and more to be coveted than great riches.</hi>
+            </p>
+            <p>Nay, further, I muſt, in the ſtrength of Truth aver, That I have not ſo much as been in the <hi>Tower</hi> of <hi>London</hi> above <hi>once</hi> this Three years; and that was above a Twelvemonth ſince; When I went to make a viſit to my Honour'd Friends, Sir <hi>George Wharton,</hi>
+               <note n="*" place="margin">Sir <hi>George Whar<g ref="char:EOLhyphen"/>ton</hi> being then ill, I could not ſee him, ſo wrote a Letter to him only.</note> and Sir <hi>Jonas Moor,</hi> (which latter is ſince deceaſed) in the company of Mr. <hi>Brom<g ref="char:EOLhyphen"/>wich</hi> a Bookſeller, near <hi>Ludgate,</hi> and Mr. <hi>Partridge,</hi> Author of the late Aſtrological <hi>Vade Mecum,</hi> which Book I prevailed with the Honourable Sir <hi>George Wharton</hi> to Patronize. And that was my ſole and alone bu<g ref="char:EOLhyphen"/>ſineſs in the <hi>Tower</hi> at that time, beſides the paying of my due reſpects unto thoſe my truly Honour'd and Loyal-hearted Friends.</p>
+            <p>God preſerve his moſt Sacred Majeſty, and grant him a long and happy Life and Reign over us; and bleſs all the Royal Family from the malice of all ſuch as think and wiſh them ill; Protect the Nobility, Clergy, Gentry, and Com<g ref="char:EOLhyphen"/>monalty of this Realm; and give Peace unto theſe Diſtur<g ref="char:EOLhyphen"/>bed Kingdoms, in theſe our troubleſome and unquiet days, if it be his bleſſed Will, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>So prayeth, and ſo hopeth, An earneſt Implorer of</hi> Englands <hi>happineſs, and a Renouncer of all kinds of Intereſts or Parties that are oppoſite to His Ma<g ref="char:EOLhyphen"/>jeſty, and to the Government of theſe Na<g ref="char:EOLhyphen"/>tions, whether of Church or State, as now Eſtabliſhed by Law.</hi> JOHN GADBURY.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>FOl. 5. l. 6. r. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, fol. 10. l. 16. for <hi>wrote,</hi> r. <hi>write,</hi> and for <hi>ſubjeſt,</hi> r. <hi>ſubject,</hi> l. 18. for <hi>my,</hi> r. <hi>any,</hi> fol. 11. l. 8. blot out <hi>met,</hi> l. 17. for <hi>intimus,</hi> r. <hi>intimis.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
